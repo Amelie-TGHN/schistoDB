@@ -1,0 +1,107 @@
+,,,Where was the study conducted/cohort recruited?,,,,,,,,,When was the study conducted and reported?,,,
+X,A0_S,A0_C,B0_country,#siteLocation,B1_siteCat,B1_setting,B0_region,B0_income,B2_endem,B2_species1,B2_species2,B3_studyStart,B4_studyEnd,B5_reportDate,B5_reportMeans
+X00010,S1,S1C1,South Africa,"11 primary schools in Ugu North health District, KwaZulu-Natal",school,rural,Southern Africa,upper middle,2,haematobium,mansoni [rare],unknown,unknown,15/12/2001,journal article
+X00020,S2,S2C1,Brazil,"University Hospital (outpatients), Universidade Federal de Minas Gerais (UFMG), Belo Horizonte",hospital/health-centre,urban,South America,upper middle,0*,mansoni,N/A,unknown,unknown,16/05/2003,journal article
+X00170,S17,S17C1,Cote d'Ivoire,"2 villages: Azaguie Makouguie (05.37 N, 04.09 W) and Azaguie M'Brome (05.39 N, 04.08 W)",other,rural,Western Africa,lower middle,2,haematobium,mansoni,15/06/2011,15/11/2011,6/12/2012,journal article
+X00180,S18,S18C1,Uganda,"health-centres or churches in 6 villages: Booma (1.48 N, 31.20 E), Kawebanda (1.48 N, 31.19 E), Nyamukuta (1.52 N, 31.23 E), Piida A (1.49 N, 31.19 E), Sonsio (1.52 N, 31.23 E), Tugombilli (1.49 N, 31.20 E)",other,rural,Eastern Africa,low,5,mansoni,N/A,3/6/2010,6/7/2010,30/05/2012,journal article
+X00190,S19,S19C1,Egypt,"El Zawrat village, Nile Delta (31.23 N, 30.27 E)",other,rural,Northern Africa,lower middle,1,mansoni,N/A,unknown,unknown,15/08/2005,journal article
+X00200,S20,S20C1,Uganda,"7 villages around Lake Albert, Buliisa District (2 sites), and Lake Victoria, Mayuge District (5 sites)",other,rural,Eastern Africa,low,3,mansoni,N/A,unknown,unknown,18/10/2012,journal article
+X00210,S21,S21C1,Philippines,"village(s) in province of Agusan del Sur, Mindanao Island",other,rural,South-Eastern Asia,lower middle,3,japonicum,N/A,15/08/2005,15/08/2006,14/06/2011,journal article
+X00211,S21,S21C2,Mauritania,village(s) in Trarza region,other,rural,Western Africa,lower middle,5,mansoni,haematobium [partial data],15/08/2005,15/12/2006,14/06/2011,journal article
+X00212,S21,S21C3,Brazil,"Municipality of Sao Lourenco da Mata, Pernambuco state",other,urban,South America,upper middle,4,mansoni,N/A,15/03/2006,15/12/2007,14/06/2011,journal article
+X00213,S21,S21C4,Tanzania,village(s) in Mwanza region,other,rural,Eastern Africa,low,9,mansoni,haematobium [partial data],15/08/2005,15/09/2005,14/06/2011,journal article
+X00220,S22,S22C1,Cameroon,"4 primary schools in Town of Loum (CEBEC-B, Public School Bonkeng, St Jean Marie Vianney 1 and 2)",school,semi-urban,Middle Africa,lower middle,4,haematobium,N/A,15/04/2002,15/06/2002,15/12/2004,journal article
+X00230,S23,S23C1,Senegal,health-centres in 4 villages in Niakhar site,hospital/health-centre,rural,Western Africa,lower middle,8*,haematobium,N/A,15/11/2003,15/01/2004,12/6/2006,journal article
+X00240,S24,S24C1,Sudan,"Alhara Aloula health centre, New Halfa",hospital/health-centre,semi-urban,Northern Africa,lower middle,-9,mansoni,N/A,15/09/2006,15/12/2006,15/01/2008,journal article
+X00250,S25,S25C1,Gabon,"2 antenatal health-centres in Fougamou (Centre for Medical Research of Lambarene at the Albert Schweitzer Hospital, and Ngounie Medical Research Centre)",hospital/health-centre,rural,Middle Africa,upper middle,0,haematobium,N/A,15/09/2009,15/12/2011,21/11/2012,journal article
+X00270,S27,S27C1,Gabon,"3 villages: Bindo, Tsouke, and Nombakele, province of Moyen-Ogooue",other,rural,Middle Africa,upper middle,4,haematobium,"mansoni [partial data, rare]",15/10/2000,2/2/2001,29/10/2001,journal article
+X00280,S28,S28C1,Egypt,"primary, preparatory and secondary schools in El-Gezira El-Shakra village, El-Saf district, Giza governorate",school,semi-urban,Northern Africa,lower middle,3,mansoni,"haematobium [partial data, rare]",unknown,unknown,15/02/2005,journal article
+X00281,S28,S28C2,Egypt,"households in El-Gezira El-Shakra village, El-Saf district, Giza governorate",other,semi-urban,Northern Africa,lower middle,3,mansoni,"haematobium [partial data, rare]",unknown,unknown,15/02/2005,journal article
+X00340,S34,S34C1,Cote d'Ivoire,"primary school in Grand Moutcho, district of Agboville (5.56 N, 4.13 W)",school,rural,Western Africa,lower middle,7,haematobium,N/A,15/03/2010,15/06/2010,21/12/2012,journal article
+X00350,S35,S35C1,Senegal,"2 primary schools in Lampsar and Makhana, delta of the Senegal River Basin",school,rural,Western Africa,lower middle,9,haematobium,N/A,15/04/2000,15/12/2000,15/04/2002,journal article
+X00360,S36,S36C1,Ethiopia,"primary school in Gorgora, Amhara",school,semi-urban,Eastern Africa,low,5,mansoni,N/A,15/02/2000,15/04/2000,15/07/2002,journal article
+X00370,S37,S37C1,Uganda,antenatal hospital in Entebbe,hospital/health-centre,urban,Eastern Africa,low,1,mansoni,N/A,15/11/2003,15/11/2005,18/03/2009,journal article
+X00400,S40,S40C1,Brazil,"Chonin district, Governador Valadares, Minas Gerais",other,rural,South America,upper middle,2,mansoni,N/A,15/03/2002,15/09/2002,15/07/2010,journal article
+X00410,S41,S41C1,Niger,"2 villages: Diambala (14.31 N, 1.30 W) and Namarigoungou (14.37 N, 1.26 W)",other,rural,Western Africa,low,7,haematobium,mansoni,15/03/2007,15/06/2008,23/08/2012,journal article
+X00411,S41,S41C2,Niger,"3 villages: Falmado (12.51 N, 2.86 W), Libore (13.40 N, 2.19 W), Seberi (13.29 N, 2.86 W)",other,rural,Western Africa,low,9,haematobium,N/A,15/03/2007,15/06/2008,23/08/2012,journal article
+X00420,S42,S42C1,China,"4 hospitals (outpatients) in Dongting Lake region, Hunan province",hospital/health-centre,rural,Eastern Asia,upper middle,0*,japonicum,N/A,15/05/2003,15/12/2005,15/10/2008,journal article
+X00430,S43,S43C1,Nigeria,"4 nursery, primary and junior secondary schools in Adim village, Biase Local Government Area, Cross River State",school,rural,Western Africa,lower middle,3,haematobium,N/A,15/08/2005,15/06/2006,5/10/2008,journal article
+X00440,S44,S44C1,Cote d'Ivoire,primary school in Taabo village,school,rural,Western Africa,lower middle,7,haematobium,N/A,15/11/2000,15/07/2001,15/01/2003,journal article
+X00460,S46,S46C1,Kenya,"5 primary schools in Lwanda Kotieno region, Rarieda district",school,rural,Eastern Africa,low,8,mansoni,N/A,15/10/2009,15/12/2009,10/9/2010,journal article
+X00480,S48,S48C1,Cote d'Ivoire,"Zouatta II village, district of Man",other,rural,Western Africa,lower middle,4,mansoni,N/A,15/05/2002,15/07/2002,15/01/2004,journal article
+X00500,S50,S50C1,Cote d'Ivoire,"2 primary schools in Douimbly and Zouatta II, district of Man",school,rural,Western Africa,lower middle,2,mansoni,N/A,15/04/2007,15/07/2007,25/11/2008,journal article
+X00510,S51,S51C1,Mali,village in Djalakorodji,other,semi-urban,Western Africa,low,7,haematobium,N/A,15/08/2007,15/10/2007,5/10/2009,journal article
+X00550,S55,S55C1,Zimbabwe,"4 primary schools in Burma Valley, Eastern Highlands, Manicaland Province (3 sites), and Shamva District, Mashonaland Central Province (1 site)",school,rural,Eastern Africa,low,6,haematobium,mansoni,15/07/2004,15/04/2005,16/05/2008,journal article
+X00560,S56,S56C1,Sudan,"elementary schools in Alhara Alula, New Halfa",school,unclear,Northern Africa,lower middle,1,mansoni,N/A,15/09/2008,15/10/2008,3/3/2009,journal article
+X00570,S57,S57C1,Cote d'Ivoire,"Guessiguie village, district of Agboville",other,rural,Western Africa,lower middle,5,haematobium,mansoni,15/11/2008,15/12/2008,1/5/2010,journal article
+X00660,S66,S66C1,Cote d'Ivoire,primary and secondary schools in Taabo region,school,rural,Western Africa,lower middle,-9,haematobium,mansoni,unknown,unknown,4/2/2015,journal article
+X00860,S86,S86C1,Nigeria,"primary and secondary schools in Akala and Imala Odo (Oyan), Abeokuta North Local Government area, Ogun State",school,unclear,Western Africa,lower middle,7,haematobium,N/A,15/07/2011,15/03/2012,1/9/2014,journal article
+X00980,S98,S98C1,Cote d'Ivoire,"school in Sahoua, Taabo district",school,rural,Western Africa,lower middle,5,haematobium,mansoni [absent],15/11/2011,15/02/2012,17/07/2014,journal article
+X01090,S109,S109C1,Angola,Bengo,unclear,unclear,Middle Africa,upper middle,6,haematobium,N/A,unknown,unknown,2/11/2014,conference
+X01180,S118,S118C1,Zimbabwe,"3 villages: Magaya, Chipinda and Chitate, Mashonaland Province (31.30 E, 17.45 S)",school,rural,Eastern Africa,low,3,haematobium,mansoni [absent],unknown,unknown,17/05/2011,journal article
+X01181,S118,S118C2,Zimbabwe,"3 villages: Magaya, Chipinda and Chitate, Mashonaland Province (31.30 E, 17.45 S)",school,rural,Eastern Africa,low,3,haematobium,mansoni [absent],unknown,unknown,17/05/2011,journal article
+X01190,S119,S119C1,Zimbabwe,"school in Magaya, Mashonaland Province (31.90 E, 17.63 S)",school,rural,Eastern Africa,low,6,haematobium,mansoni [absent],unknown,unknown,6/5/2011,journal article
+X01370,S137,S137C1,Uganda,"Musoli village, Mayuge district, (Lake Victoria)",other,rural,Eastern Africa,low,8*,mansoni,N/A,unknown,unknown,15/05/2011,journal article
+X01460,S146,S146C1,Senegal,"2 villages: Nder and Temeye, Lac de Guier",other,rural,Western Africa,lower middle,9,haematobium,mansoni,15/04/2007,15/06/2008,26/09/2012,journal article
+X01461,S146,S146C2,Senegal,"Guia village, Senegal River Basin",other,rural,Western Africa,lower middle,9,haematobium,mansoni [absent],15/05/2008,15/01/2010,26/09/2012,journal article
+X01480,S148,S148C1,Cameroon,"schools in Bessoum and Ouro Doukoudje, Lagdo area, North region",school,rural,Middle Africa,lower middle,9,haematobium,mansoni,15/10/2007,15/10/2008,20/06/2013,journal article
+X01481,S148,S148C2,Cameroon,"schools in Makenene, Centre region",school,semi-urban,Middle Africa,lower middle,4,mansoni,N/A,15/10/2007,15/10/2008,20/06/2013,journal article
+X01560,S156,S156C1,Mauritania,"Toungene village, Rosso department, Trarza region",other,rural,Western Africa,lower middle,3,haematobium,N/A,15/11/2006,15/11/2006,17/05/2013,journal article
+X01620,S162,S162C1,Ethiopia,Dulshatalo village,other,rural,Eastern Africa,low,5,haematobium,N/A,15/10/2007,15/12/2007,30/09/2013,journal article
+X01800,S180,S180C1,Niger,"2 villages: Ndounga (13.21 N, 2.15 E) and Zamakoira (13.42 N, 1.43 E), Kollo department, Tillaberi region",other,rural,Western Africa,low,8,haematobium,mansoni [absent],15/03/2010,15/05/2010,10/12/2012,journal article
+X01801,S180,S180C2,Niger,"Bonfeda (14.22 N, 12.43 E), Tillaberi region",other,rural,Western Africa,low,6,haematobium,mansoni,15/03/2010,15/05/2010,10/12/2012,journal article
+X02050,S205,S205C1,Zimbabwe,"2 villages: Magaya (17.37 S, 31.54 E) and Chitate, Mashonaland Province",other,rural,Eastern Africa,low,4,haematobium,mansoni,unknown,unknown,15/06/2012,journal article
+X02220,S222,S222C1,Nigeria,"6 villages: Apojola, Igbole, Lopokoredi, Akande, Sasa and Ogbere villages, in Odeda and Ijebu-East local government areas, Ogun state",other,rural,Western Africa,lower middle,4,haematobium,N/A,unknown,unknown,3/1/2012,journal article
+X02370,S237,S237C1,Zimbabwe,"2 villages: Magaya (17.37 S, 31.54 E); Chipinda (17.41 S, 31.56 E)",other,rural,Eastern Africa,low,4,haematobium,mansoni,unknown,unknown,8/11/2012,journal article
+X02880,S288,S288C1,China,"Xuguang village, Dantu District of Zhenjiang City, Jiangsu Province",other,rural,Eastern Asia,upper middle,0,japonicum,N/A,15/11/2007,15/02/2008,15/05/2012,journal article
+X02881,S288,S288C2,China,"Sanshan village, Jiangpu District of Nanjing City, Jiangsu Province",other,rural,Eastern Asia,upper middle,0,japonicum,N/A,15/11/2007,15/02/2008,15/05/2012,journal article
+X03210,S321,S321C1,China,villages in 1 county of southwest Sichuan province,other,rural,Eastern Asia,upper middle,0,japonicum,N/A,15/11/2009,15/12/2009,15/07/2011,journal article
+X03430,S343,S343C1,Egypt,"6 schools in Motoubis area, Kafr El Sheikh Governorate",school,semi-urban,Northern Africa,lower middle,1,mansoni,N/A,15/01/2013,15/07/2013,26/01/2015,journal article
+X03530,S353,S353C1,Brazil,"Pedra Preta, Montes Claros, Minas Gerais",unclear,semi-urban,South America,upper middle,3,mansoni,N/A,unknown,unknown,15/04/2014,conference
+X03770,S377,S377C1,Uganda,"3 primary schools around Lake Victoria, Mayuge district",school,unclear,Eastern Africa,low,-9,mansoni,N/A,15/02/2013,15/03/2013,2/11/2014,conference
+X03900,S390,S390C1,Uganda,villages around Lake Albert,other,unclear,Eastern Africa,low,-9,mansoni,N/A,unknown,unknown,2/11/2014,conference
+X03920,S392,S392C1,Democratic Republic of the Congo,unknown,unclear,unclear,Middle Africa,low,1,mansoni,N/A,unknown,unknown,2/11/2014,conference
+X03921,S392,S392C2,Ghana,unknown,unclear,unclear,Western Africa,lower middle,1,mansoni,N/A,unknown,unknown,2/11/2014,conference
+X03922,S392,S392C3,Liberia,unknown,unclear,unclear,Western Africa,low,1,mansoni,N/A,unknown,unknown,2/11/2014,conference
+X04050,S405,S405C1,Ethiopia,primary school in Senbete town,school,semi-urban,Eastern Africa,low,7,mansoni,N/A,15/03/2011,15/09/2011,14/09/2013,journal article
+X04360,S436,S436C1,Ethiopia,"Tikur Wuha Elementary School, Jiga district",school,rural,Eastern Africa,low,2,mansoni,N/A,15/02/2011,15/03/2011,29/01/2013,journal article
+X04430,S443,S443C1,Uganda,"2 villages around Lake Albert, Buliisa District",other,rural,Eastern Africa,low,6,mansoni,N/A,15/10/2012,15/11/2012,14/11/2013,journal article
+X04490,S449,S449C1,Ethiopia,"Kemise health centre, Kemise town",hospital/health-centre,semi-urban,Eastern Africa,low,1,mansoni,N/A,15/09/2009,15/11/2009,15/06/2013,journal article
+X04810,S481,S481C1,Ethiopia,"Shesha Kekele Elementary School, Wondo Genet",school,semi-urban,Eastern Africa,low,7,mansoni,N/A,15/04/2010,15/05/2010,28/03/2012,journal article
+X05000,S500,S500C1,Cote d'Ivoire,9 primary schools in Biankouma,school,rural,Western Africa,lower middle,3,mansoni,N/A,15/11/2006,15/03/2007,15/04/2012,journal article
+X05110,S511,S511C1,Uganda,"4 villages: Nakalanga (0.19 N, 33.29 E),Walumbe (0.24 N, 33.21 E), Kayanja (0.11 N, 33.29 E) and Nakirimira (0.21 N, 33.22 E), Mayuge district (Lake Victoria)",other,rural,Eastern Africa,low,2,mansoni,N/A,15/01/2009,15/02/2010,20/10/2010,journal article
+X05111,S511,S511C2,Uganda,"4 villages: Nakalanga (0.19 N, 33.29 E),Walumbe (0.24 N, 33.21 E), Kayanja (0.11 N, 33.29 E) and Nakirimira (0.21 N, 33.22 E), Mayuge district (Lake Victoria)",other,rural,Eastern Africa,low,1,mansoni,N/A,15/01/2009,15/02/2010,20/10/2010,journal article
+X05190,S519,S519C1,Egypt,15 villages in Beheira governorate,other,semi-urban,Northern Africa,lower middle,1,mansoni,N/A,unknown,unknown,15/04/2011,journal article
+X05240,S524,S524C1,Uganda,"9 primary schools in Kei sub-county, Yumbe District",school,rural,Eastern Africa,low,2,mansoni,N/A,15/10/2007,15/12/2007,25/02/2011,journal article
+X05490,S549,S549C1,Egypt,"El Rouse primary school, El Rouse village, Kafr El Sheikh Governorate, Nile Delta",school,rural,Northern Africa,lower middle,4,mansoni,N/A,unknown,unknown,16/11/2010,journal article
+X05680,S568,S568C1,Nigeria,"General Hospital (outpatients), Ogoja, Cross River State",hospital/health-centre,rural,Western Africa,lower middle,1,haematobium,N/A,15/05/2006,15/10/2006,15/06/2009,journal article
+X05740,S574,S574C1,Tanzania,8 primary schools in Pemba island,school,unclear,Eastern Africa,low,1,haematobium,N/A,15/05/2007,15/07/2007,1/3/2010,journal article
+X06020,S602,S602C1,Kenya,"primary school in Jimba sub-location, Kaloleni division of Kilifi District, Coast Province",school,rural,Eastern Africa,low,9,haematobium,N/A,15/03/2005,15/04/2005,3/8/2009,journal article
+X06160,S616,S616C1,Mozambique,4 primary schools in Matola (Machava J and Trevo schools) and Maputo (Costa do Sol and Triunfo schools),school,semi-urban + urban,Eastern Africa,low,5,haematobium,N/A,15/03/2004,15/11/2004,2/6/2009,journal article
+X06320,S632,S632C1,Zimbabwe,"4 primary and secondary schools in Mashonaland East Province (31.30 E, 17.45 S)",school,rural,Eastern Africa,low,5,haematobium,mansoni [absent],unknown,unknown,17/11/2008,journal article
+X06550,S655,S655C1,Malawi,"Kamuzu Central Hospital (outpatients), Lilongwe",hospital/health-centre,semi-urban,Eastern Africa,low,0,haematobium,mansoni,unknown,unknown,20/03/2007,journal article
+X06890,S689,S689C1,China,"11 villages: Biaoen and Changshan, Poyang County of Jiangxi Province; Nandi and Chehun, Hanshou County of Hunan Province; Gudi and Fanhu, Jiangling County of Hubei Province; Tanzhu and Sanguan, Dantu District of Jiangsu Province; Tanzhu and Sanguan, Dantu District of Jiangsu Province; Shujie, Gumudi and Duma, Weishan County of Yunnan Province",other,rural,Eastern Asia,upper middle,3,japonicum,N/A,15/11/2004,15/03/2005,2/9/2010,journal article
+X06990,S699,S699C1,China,"3 communities: Dongxie, Xixie, and Chuankuijia, in Zhaoyang village, Nanji Township, Xinjian County, Jiangxi Province",other,rural,Eastern Asia,upper middle,2,japonicum,N/A,25/06/2007,10/8/2007,15/06/2010,journal article
+X07490,S749,S749C1,Philippines,"3 villages: Macanip, Buri, and Pitogo, Leyte island",other,rural,South-Eastern Asia,lower middle,6,japonicum,N/A,15/10/2002,15/04/2003,15/01/2006,journal article
+X07580,S758,S758C1,Uganda,"4 villages around Lake Albert, Buliisa District and Lake Victoria, Mayuge District",other,rural,Eastern Africa,low,1,mansoni,N/A,15/01/2009,15/02/2009,15/06/2010,journal article
+X07720,S772,S772C1,Uganda,"3 primary schools: Bugoto Lake View (LV), Bwondha, and Musubi Church of God (CoG) schools, Mayuge",school,rural,Eastern Africa,low,2,mansoni,N/A,15/02/2005,15/08/2005,15/12/2010,journal article
+X08120,S812,S812C1,Zimbabwe,school in Chiredzi,school,semi-urban,Eastern Africa,low,6,mansoni,haematobium,15/03/2002,15/09/2004,15/12/2009,journal article
+X08200,S820,S820C1,Togo,"11 primary schools in Sokode town surroundings, Tchaoudjo prefecture, central region",school,urban,Western Africa,low,4,haematobium,mansoni,unknown,unknown,24/04/2009,journal article
+X08280,S828,S828C1,Kenya,"1 community of workers in Kisumu, Lake Victoria shores",other,urban,Eastern Africa,low,-9,mansoni,haematobium [rare],15/06/1995,15/12/2007,14/02/2009,journal article
+X08430,S843,S843C1,Uganda,"1 community of workers in Bugoigo, Lake Albert, Buliisa District",other,rural,Eastern Africa,low,8,mansoni,N/A,unknown,unknown,29/11/2007,journal article
+X08620,S862,S862C1,Kenya,"5 primary schools in Mwea Division of Kirinyaga District, Central Province",school,rural,Eastern Africa,low,4,mansoni,N/A,unknown,unknown,1/5/2007,journal article
+X09310,S931,S931C1,Nigeria,"primary school in Adim village, Biase Local Government Area, Cross River State",school,rural,Western Africa,lower middle,2,haematobium,N/A,15/10/2001,15/08/2002,15/07/2004,journal article
+X09350,S935,S935C1,Niger,"5 villages: Kollo-Kourteye, Kollo-Zarma, Kollo-Zongo, Ibba and Kollo-Peul villages, Seberi area",other,rural,Western Africa,low,6,haematobium,N/A,15/11/1999,15/09/2000,15/02/2004,journal article
+X09720,S972,S972C1,Zimbabwe,school in Chiredzi,school,semi-urban,Eastern Africa,low,7,haematobium,mansoni,unknown,unknown,15/09/2002,journal article
+X09880,S988,S988C1,Zimbabwe,pre-school centres in Madziwa area,other,rural,Eastern Africa,low,6,haematobium,mansoni [partial data],unknown,unknown,25/08/2001,journal article
+X10490,S1049,S1049C1,China,"5 villages on Qingshan and Niangashan islands, Dongting Lake, Hunan Province",other,rural,Eastern Asia,upper middle,2,japonicum,N/A,15/03/1996,15/06/2001,15/07/2002,journal article
+X10530,S1053,S1053C1,China,"Nanti and Chefen villages in Hanshou
+County, and Taipingqiao and Xiangtang villages in Hetang District, Zhuzhou City; all 4 villages in Hunan Province, Dongting Lake region",other,rural,Eastern Asia,upper middle,1,japonicum,N/A,15/11/1999,15/04/2000,15/09/2001,journal article
+X10590,S1059,S1059C1,China,"4 villages: Nandi and Chehun in Hanshou County, Hunan Province, Dongting Lake; Chanshan and Biaoen in Baoyuan County, Jiangxi Province, Baoyuan Lake",other,rural,Eastern Asia,upper middle,1,japonicum,N/A,15/11/1999,15/03/2000,15/09/2001,journal article
+X10591,S1059,S1059C2,China,"2 villages: Gudi and Fanhu, Jiangling County, Hubei Province, Yangtze River",other,rural,Eastern Asia,upper middle,2,japonicum,N/A,15/11/1999,15/03/2000,15/09/2001,journal article
+X10760,S1076,S1076C1,Egypt,"5 villages: Kafr Hussein, Meet El-Bez, Menyat El-Mobashreen, Kafr El-Arab and Ezbet Eweis, in Zefta District, Garbha Governorate",other,rural,Northern Africa,lower middle,1,mansoni,N/A,unknown,unknown,18/03/2005,journal article
+X10840,S1084,S1084C1,Uganda,"community of workers in Bugoigo, Lake Albert, Buliisa District",other,rural,Eastern Africa,low,-9,mansoni,N/A,unknown,unknown,21/04/2004,journal article
+X10970,S1097,S1097C1,Uganda,"community of workers in Bugoigo, Lake Albert, Buliisa District",other,rural,Eastern Africa,low,-9,mansoni,N/A,unknown,unknown,15/07/2004,journal article
+X11090,S1109,S1109C1,Cote d'Ivoire,primary schools in Agboville,school,rural,Western Africa,lower middle,1,mansoni,N/A,15/02/2001,15/06/2001,15/07/2004,journal article
+X11220,S1122,S1122C1,Zimbabwe,school in Chiredzi,school,semi-urban,Eastern Africa,low,-9,mansoni,haematobium,unknown,unknown,24/02/2003,journal article
+X11700,S1170,S1170C1,Egypt,Abis 4 village,other,semi-urban,Northern Africa,lower middle,2,mansoni,N/A,unknown,unknown,15/01/2002,journal article
